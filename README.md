@@ -3,7 +3,7 @@ coupons service demo
 
 ## Restful API using GO 
 ## End points Examples
-*localhost:11111/coupons - Get All Coupons (GET)*
+* localhost:11111/coupons - Get All Coupons (GET)*
 * localhost:11111/coupons/?Brand=Tesco&Value=30 - Get Filtered  Coupons (GET)*
 * localhost:11111/coupons -Create New Coupon (POST)*
 * localhost:11111/coupons/Save 30 at Tesco - Get Single Coupon by Name -(Get)*
